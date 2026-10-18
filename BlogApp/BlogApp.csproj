@@ -6,6 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationIcon>AppIcon.ico</ApplicationIcon>
     <NuGetAudit>False</NuGetAudit>
+    <GenerateDocumentationFile>False</GenerateDocumentationFile>
+    <PublishTrimmed>False</PublishTrimmed>
   </PropertyGroup>
 
   <ItemGroup>
