@@ -1,0 +1,266 @@
+[
+  {
+    "ENG": "BlogApp",
+    "FA": "بلاگ اپ"
+  },
+  {
+    "ENG": "UserName",
+    "FA": "نام کاربری"
+  },
+  {
+    "ENG": "Password",
+    "FA": "رمز عبور"
+  },
+  {
+    "ENG": "Confirm Password",
+    "FA": "تکرار رمز عبور"
+  },
+  {
+    "ENG": "Description",
+    "FA": "توضیحات"
+  },
+  {
+    "ENG": "Gender",
+    "FA": "جنسیت"
+  },
+  {
+    "ENG": "Male",
+    "FA": "مرد"
+  },
+  {
+    "ENG": "Female",
+    "FA": "زن"
+  },
+  {
+    "ENG": "Email",
+    "FA": "ایمیل"
+  },
+  {
+    "ENG": "Blog",
+    "FA": "بلاگ"
+  },
+  {
+    "ENG": "Blogs",
+    "FA": "بلاگ ها"
+  },
+  {
+    "ENG": "Comment",
+    "FA": "کامنت"
+  },
+  {
+    "ENG": "Comments",
+    "FA": "کامنت ها"
+  },
+  {
+    "ENG": "Test",
+    "FA": "تست"
+  },
+  {
+    "ENG": "About",
+    "FA": "درباره"
+  },
+  {
+    "ENG": "Dashboard",
+    "FA": "داشبورد"
+  },
+  {
+    "ENG": "Login",
+    "FA": "ورود"
+  },
+  {
+    "ENG": "Logout",
+    "FA": "خروج"
+  },
+  {
+    "ENG": "Edit",
+    "FA": "ویرایش"
+  },
+  {
+    "ENG": "You are not Logged in",
+    "FA": "شما وارد نشده اید"
+  },
+  {
+    "ENG": "See",
+    "FA": "مشاهده"
+  },
+  {
+    "ENG": "Public Blogs",
+    "FA": "بلاگ های عمومی"
+  },
+  {
+    "ENG": "Login To Get Started",
+    "FA": "برای شروع وارد شوید"
+  },
+  {
+    "ENG": "Is The Best Blog Web App In The World",
+    "FA": "بهترین برنامه وبلاگ در دنیاست"
+  },
+  {
+    "ENG": "Authored by",
+    "FA": "نوشته شده توسط"
+  },
+  {
+    "ENG": "at",
+    "FA": "در"
+  },
+  {
+    "ENG": "Back",
+    "FA": "برگشت"
+  },
+  {
+    "ENG": "Creation date",
+    "FA": "تاریخ ساخت"
+  },
+  {
+    "ENG": "Created by Hossein Sarlak as its first standalone WebApp.",
+    "FA": "ساخته شده توسط حسین سرلک به عنوان اولین برنامه وب مستقل."
+  },
+  {
+    "ENG": "Profile",
+    "FA": "پروفایل"
+  },
+  {
+    "ENG": "Profile Picture",
+    "FA": "تصویر پروفایل"
+  },
+  {
+    "ENG": "Should change profile picture",
+    "FA": "تصویر پروفایل تغییر کند"
+  },
+  {
+    "ENG": "Delete current picture",
+    "FA": "تصویر فعلی حدف شود"
+  },
+  {
+    "ENG": "My Github Profile",
+    "FA": "پروفایل گیت‌هاب من"
+  },
+  {
+    "ENG": "Categories",
+    "FA": "دسته بندی ها"
+  },
+  {
+    "ENG": "Category",
+    "FA": "دسته بندی"
+  },
+  {
+    "ENG": "Logined user can post commnts on this blog",
+    "FA": "کاربران وارد شده میتوانند برای این وبلاگ نوشته بگذارند"
+  },
+  {
+    "ENG": "New Comment",
+    "FA": "کامنت جدید"
+  },
+  {
+    "ENG": "Add",
+    "FA": "اضافه کردن"
+  },
+  {
+    "ENG": "Make",
+    "FA": "ساختن"
+  },
+  {
+    "ENG": "No comment yet",
+    "FA": "کامنتی وجود ندارد"
+  },
+  {
+    "ENG": "If dont have account yet, create new one",
+    "FA": "اگر هیچ حساب کاربری نداری، یدونه جدید بساز"
+  },
+  {
+    "ENG": "SignUp",
+    "FA": "ساخت حساب کاربری"
+  },
+  {
+    "ENG": "Congrats! your account created successfully",
+    "FA": "تبریک! حساب شما با موفقیت ساخنه شد"
+  },
+  {
+    "ENG": "Now Login to your account using this button",
+    "FA": "اکنون با دکمه زیر وارد شوید"
+  },
+  {
+    "ENG": "Like",
+    "FA": "دوست دارم"
+  },
+  {
+    "ENG": "Dislike",
+    "FA": "دوست ندارم"
+  },
+  {
+    "ENG": "Details",
+    "FA": "جزئیات"
+  },
+  {
+    "ENG": "Delete",
+    "FA": "حذف"
+  },
+  {
+    "ENG": "Blogs that are public and confirmed by admins, shows to public",
+    "FA": "بلاگ هایی که عمومی هستند و هم توسط ادمین ها تایید شده اند، به عموم نمایش داده خواهند شد"
+  },
+  {
+    "ENG": "Editing a confirmed Blog, change its confirmed state to false",
+    "FA": "ویرایش کردن وبلاگ از پیش تایید شده، آن را در وضعیت تایید نشده قرار می دهد"
+  },
+  {
+    "ENG": "Title",
+    "FA": "عنوان"
+  },
+  {
+    "ENG": "Content",
+    "FA": "محتوا"
+  },
+  {
+    "ENG": "Is Confirmed",
+    "FA": "تایید شده"
+  },
+  {
+    "ENG": "Is Public",
+    "FA": "به عموم نمایش داده شود"
+  },
+  {
+    "ENG": "List is empty",
+    "FA": "لیست خالی است"
+  },
+  {
+    "ENG": "Create",
+    "FA": "ساخت"
+  },
+  {
+    "ENG": "New",
+    "FA": "جدید"
+  },
+  {
+    "ENG": "There is no categories",
+    "FA": "هیچ دسته‌بندی وجود ندارد"
+  },
+  {
+    "ENG": "Only admins can confirm - editing a confirmed blog or change this property to false",
+    "FA": "فقط ادمین ها می توانند بلاگ ها را تایید کنند"
+  },
+  {
+    "ENG": "first",
+    "FA": "اولین"
+  },
+  {
+    "ENG": "last",
+    "FA": "آخرین"
+  },
+  {
+    "ENG": "Save",
+    "FA": "ذخیره"
+  },
+  {
+    "ENG": "Do you like this blog?",
+    "FA": "این بلاگ رو دوست داری؟"
+  },
+  {
+    "ENG": "login to vote",
+    "FA": "وارد شو تا امتیاز بدی"
+  },
+  {
+    "ENG": "Dear user, you have already a comment on this blog. You cant add new comment anymore.",
+    "FA": "کاربر عزیز، شما برای این بلاگ یک کامنت دارید و دیگر نمیتوانید کامنت جدیدی وارد کنید."
+  }
+]

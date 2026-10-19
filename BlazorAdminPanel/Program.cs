@@ -23,7 +23,7 @@ var host = builder.Build();
 
 LocalManager localManager = host.Services.GetRequiredService<LocalManager>();
 HttpClient http = host.Services.GetRequiredService<HttpClient>();
-string? localizationPayload = await http.GetStringAsync(LocalManager.LocalizationFileURL);
+string? localizationPayload = await http.GetStringAsync(LocalManager.FileName);
 await localManager.LoadFromJsonAsync(localizationPayload!);
 
 await host.RunAsync();
